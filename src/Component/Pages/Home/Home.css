@@ -1,0 +1,12 @@
+ .box-container{
+    display: grid;
+    grid-template-columns:repeat(2, 1fr);
+    gap:5px;
+    padding-left: 50px;
+    padding-right: 50px;
+ }   
+    
+    
+    
+    
+    
